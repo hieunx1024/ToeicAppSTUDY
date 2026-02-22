@@ -1,0 +1,11 @@
+{
+    "ignore": [
+        "uploads/*",
+        "*.sql",
+        "test_db.js",
+        "init_db.js"
+    ],
+    "watch": [
+        "src/"
+    ]
+}
